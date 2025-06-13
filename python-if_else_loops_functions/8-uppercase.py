@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-b = "best"
-c = "Best School 98 Battery street"
 
 def uppercase(str):
     result = ""
